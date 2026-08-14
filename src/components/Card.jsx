@@ -45,7 +45,7 @@ function Card() {
             <p>
              Apa pun yang lagi lu kejar, semoga perlahan bisa tercapai. Stay true to yourself, terus berkembang, dan jangan lupa traktir karena itu kewajiban.
             </p>
-            <p className="signed">UmayPkeY Ganteng Banget</p>
+            <p className="signed">Umay gnteng</p>
           </div>
         </div>
 
